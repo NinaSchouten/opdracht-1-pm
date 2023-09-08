@@ -1,0 +1,14 @@
+#include <iostream>
+#include <ctime>
+
+using namespace std;
+
+int main () {
+
+    int geboortejaar;
+    
+
+
+
+    return 0;
+} //main
