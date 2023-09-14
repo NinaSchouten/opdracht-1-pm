@@ -5,7 +5,7 @@ using namespace std;
 // const double FoutMarge = 0.1;
 
 int main ( ) {
-    // infoblok (misschien nog beter maken)
+    // infoblok (misschien nog beter maken) yeah
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
     cout << "De makers zijn: " << endl;
     cout << "Nina Schouten: 2005, Wiskunde + Inforrmatica, 3909409" << endl;
